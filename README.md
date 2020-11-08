@@ -21,3 +21,16 @@ Textos fixos
 Textos fluidos
 `em` - multiplicado pelo pai
 `rem` - multiplicado pelo root
+
+## Media Queries
+
+@media (max-width: 320px){
+  #form h3{
+    font-size: 2rem;
+  }
+}
+
+
+## HTML Media Attrib.
+
+## Imagens

@@ -10,3 +10,14 @@ Layout fixo
 
 Layout Fluido
 `%` - Porcentagem
+`auto` - Automática
+`vh` - viewport hight
+`vw` - viewport width
+
+Textos fixos
+`1px` == 0.75pt 
+
+
+Textos fluidos
+`em` - multiplicado pelo pai
+`rem` - multiplicado pelo root
